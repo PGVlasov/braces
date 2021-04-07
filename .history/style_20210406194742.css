@@ -1,0 +1,9 @@
+.body {
+  background-color: aqua;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.form {
+  font-style: inherit;
+}
